@@ -1,4 +1,4 @@
-# AI-ML
+# AI-ML ( one last game )
 Just a experimentation of how much i can learn in short period of time , just starting out in artificial intelligence and machine learning 
 
 #DAY 1 (10/06/25) 
