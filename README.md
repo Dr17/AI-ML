@@ -3,3 +3,5 @@ Just a experimentation of how much i can learn in short period of time , just st
 
 # DAY 1 (10/06/25) 
 Starting with fast ai course. 
+# DAY 2 ( 11/06/25)
+Still staying in the same course , covering theory parts , maybe at the end of the day will try to do a small project 
